@@ -1,0 +1,4 @@
+EmployeeAppApplicationTests.class
+org/nerioindriago/thales/service/EmployeeServiceTest.class
+org/nerioindriago/thales/service/EmployeeBusinessServiceTests.class
+org/nerioindriago/thales/service/SalaryServiceTests.class
