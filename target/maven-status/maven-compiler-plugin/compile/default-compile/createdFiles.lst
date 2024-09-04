@@ -6,4 +6,5 @@ org/nerioindriago/thales/controller/EmployeeController.class
 org/nerioindriago/thales/database.class
 org/nerioindriago/thales/EmployeeAppApplication.class
 org/nerioindriago/thales/model/Employee.class
+org/nerioindriago/thales/ServletInitializer.class
 org/nerioindriago/thales/service/EmployeeBusinessService.class

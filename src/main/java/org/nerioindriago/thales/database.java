@@ -14,6 +14,9 @@ public class database {
         return args -> {
             repository.save(new Employee("John Doe", 1000, 61, 0));
             repository.save(new Employee("Jane Doe", 2000, 23, 0));
+            repository.save(new Employee("Dory Doe", 5000, 42, 0));
+            repository.save(new Employee("Iron Doe", 1800, 37, 0));
+            repository.save(new Employee("Bruce Doe", 4000, 34, 0));
         };
     }
 
